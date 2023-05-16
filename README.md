@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MortexAG
 - 👀 I’m A Python,HTML,CSS Programmer
-- 🌱 I’m currently learning Javascript,NodeJS
+- 🌱 I’m currently learning C#
 - 📔 You Can Visit My Blog Here: https://blog.mortexagsite.cyou
 
 <!---
